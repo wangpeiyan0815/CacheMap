@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CacheLocation</string>
+    <string name="rationale_camera">CacheLocation</string>
+    <string name="rationale_location_contacts">CacheLocation</string>
+</resources>
